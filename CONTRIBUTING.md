@@ -11,5 +11,6 @@ Terdapat tiga jalan bagi Anda jika berkontribusi melalui Github:
 Jika Anda ingin berkontribusi mohon lakukan petunjuk di bawah ini.
 - Fork repository dan pastikan fork repo up to date melalui panduan [gist ini](https://gist.github.com/CristinaSolana/1885435) atau [backstroke](https://backstroke.co/).
 - Git clone repository yang sudah di fork.
+- Perhatikan contoh di halaman [TEMPLATE](workshop-idea/TEMPLATE.md) dan buatlah berdasarkan contoh dari atas.
 - Buat branch baru sesuai dengan issue atau fitur yang ingin dikerjakan. Misalnya workshop membuat package dan upload ke composer, maka buat branch: ```workshop:make-composer-package```.
-- Setelah selesai lakukan git push dan lakukan pull request.
+- Setelah selesai lakukan git push dan lakukan pull request. **Pull request Anda akan diterima jika sesuai dengan TEMPLATE**
